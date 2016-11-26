@@ -1,8 +1,8 @@
 /**
- * md5.js
+ * encode.js
  * desc: 对字符串进行加密
- * github: https://github.com/yangqiong/javascript/encode.js
- * version: 1.0.0
+ * github: https://github.com/yangqiong/javascript/blob/master/encode.js
+ * version: 1.0.1
  * author: yangqiong
  * date: 2016-11-26
  */
